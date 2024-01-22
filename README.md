@@ -7,6 +7,8 @@
 - **💡 Sempre melhorando!**
 - **🙃 Fale comigo pelo instagram, é melhor.**
 
+$~$
+
 <a href="https://github.com/mushytu/github-readme-stats">
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=mushytu&show_icons=true&locale=pt-br&hide_border=true&bg_color=074133&text_color=FFFFFF&title_color=EA8C2F&icon_color=AF5C09&line_height=20&" />
 </a>
@@ -14,9 +16,10 @@
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushytu&layout=compact&show_icons=true&locale=pt-br&hide_border=true&bg_color=074133&text_color=FFFFFF&title_color=EA8C2F&icon_color=AF5C09&line_height=20&" />
 </a>
 
-<div style= display: flex> <br>
-  <img align="center" height="28" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
+
+<div style= display: inline> <br>
+  <img align="center" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
 </div>
 
 ##
