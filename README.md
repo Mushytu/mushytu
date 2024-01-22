@@ -7,4 +7,4 @@
 - 💡 Sempre melhorando!
 - 🙃 Fale comigo pelo instagram, é melhor.
 
-[![Mushytu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushytu)](https://github.com/mushytu/github-readme-stats)
+![Mushytu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushytu&show_icons=true&theme=cobalt)
