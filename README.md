@@ -1,4 +1,11 @@
-### Hi there 👋
+### Oi! Sou o Ramon, ou Mushytu, como preferir.
+
+- 🛠️ Estou trabalhando com Java;
+- 🍃 Estudando Spring e Microsserviços;
+- 👥 Gostaria de trabalhar em novos projetos;
+- ⚡ Tenho facilidade em aprender e um bom raciocínio lógico;
+- 💡 Sempre melhorando!
+- 🙃 Fale comigo pelo instagram, é melhor.
 
 <!--
 **Mushytu/mushytu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
