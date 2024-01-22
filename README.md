@@ -14,15 +14,11 @@
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushytu&layout=compact&show_icons=true&locale=pt-br&hide_border=true&bg_color=074133&text_color=FFFFFF&title_color=EA8C2F&icon_color=AF5C09&line_height=20&" />
 </a>
 
-<div style= "display: flex;
-  justify-content: flex-end;
-  margin-left: auto;
-  margin-right: 0;
-"> <br>
-  <img height="28" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg""/>
+<div style= "display: inline_block"> <br>
+  <img align="right" height="28" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="right" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg""/>
 </div>
 
 ##
 
-<div>
+<div> 
