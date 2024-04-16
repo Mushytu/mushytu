@@ -1,5 +1,4 @@
-
-### ${\textsf{\color{orange} Oi! Sou o Ramon, }}{\textsf{\color{#1FA686}ou Mushytu}}{\textsf{\color{orange}, como preferir.}}$
+Oi! Sou o Ramon, ou Mushytu, como preferir.
 - **🛠️ Estou trabalhando com Java;**
 - **🍃 Estudando Spring e Microsserviços;**
 - **👥 Gostaria de trabalhar em novos projetos;**
